@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "weather-server": {
+      "command": "node",
+      "args": [
+        "/Users/tianyili/Learn/ml/mcp-servers/weather-server/build/index.js"
+      ],
+      "env": {
+        "OPENWEATHER_API_KEY": "354e199b5fb397af2bc4220658dea13c"
+      },
+      "disabled": false
+    }
+  }
+}
